@@ -4,6 +4,13 @@ An automated Test and Cost Template Generator App for GS Components & Products
 
 <br><br>
 
+## About
+The standalone application is developed for generating the test and cost template for the Gasoline Systems(GS) products
+The app uses a primary database <strong>info.db</strong> for initially loading the contents
+Every instance of the template generation is being recorded in the database <strong>report.db</strong> which is located in the network folder
+
+<br><br>
+
 ## Workflow
 - The application gets the required inputs i.e. change type, subassebmly and parts from the user
 - The inputs are used to filter the tests from the test database
