@@ -18,3 +18,7 @@ An automated Test and Cost Template Generator App for GS Components & Products
 
 ![confirmation](https://user-images.githubusercontent.com/60011463/130349725-55d8edf4-f51f-4826-aee1-de89131386bb.PNG)
 
+### Settings Window
+
+![settings](https://user-images.githubusercontent.com/60011463/130349901-e08adf60-69dc-4234-bcb9-e720fc19ca8d.PNG)
+
